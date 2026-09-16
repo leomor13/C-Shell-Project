@@ -1,0 +1,6 @@
+# Configuration files
+.vscode/
+
+# C files
+a.out
+main
